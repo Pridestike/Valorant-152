@@ -13,7 +13,7 @@ namespace UCSpoofer
     {
         static void Main(string[] args)
         {
-            try
+            AppDomainManagerInitializationOptions
             {
                 MessageBox.Show("if your paid for this you are scammed");
                 options.ConsoleOPT();
